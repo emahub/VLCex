@@ -4,7 +4,7 @@
   <dict>
     <key>CFBundleExecutable</key>
     <string>VLC.sh</string>
-	<key>CFBundleIconFile</key>
-	<string>vlc.icns</string>
+    <key>CFBundleIconFile</key>
+    <string>vlc.icns</string>
   </dict>
 </plist>
